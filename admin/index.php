@@ -12,7 +12,7 @@ if(isset($_POST['login']))
       $_SESSION['aid']=$ret['ID'];
       $_SESSION['uname']=$ret['AdminuserName'];
       $_SESSION['utype']=$ret['UserType'];
-     header('location:dashboard.php');
+     header('location:admin/dashboard.php');
     }
     else{
     echo "<script>alert('Invalid Details.');</script>";          
@@ -76,7 +76,7 @@ if(isset($_POST['login']))
 
 
       <p class="mb-1">
-        <a href="password-recovery.php">I forgot my password</a>
+        <a href="admin/password-recovery.php">I forgot my password</a>
       </p>
 
     </div>
