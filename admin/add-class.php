@@ -53,7 +53,7 @@ echo "<script>alert('Something went wrong. Please try again.');</script>";
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>PreSchool Enrollment System  | Add Class</title>
+  <title>Sparkle Kids | Add Class</title>
 
   <link rel="stylesheet" href="../plugins/fontawesome-free/css/all.min.css">
 

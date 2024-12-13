@@ -34,7 +34,7 @@ echo "<script>alert('Something went wrong. Please try again.');</script>";
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>PreSchool Enrollment System  | Edit Class Details</title>
+  <title>Sparkle Kids | Edit Class Details</title>
 
   <link rel="stylesheet" href="../plugins/fontawesome-free/css/all.min.css">
 

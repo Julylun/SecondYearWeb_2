@@ -56,5 +56,4 @@ while($data=mysqli_fetch_array($sql)){
                 
                 </div>
             </div>
-    
         </div>

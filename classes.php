@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>PreSchool Enrollment System </title>
+    <title>Sparkle Kids</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -217,6 +217,8 @@ while($result=mysqli_fetch_array($query)){
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
+    <script src="js/changeHeaderColor.js"></script>
+
 </body>
 
 </html>
