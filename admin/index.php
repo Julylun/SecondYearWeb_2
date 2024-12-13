@@ -40,7 +40,7 @@ if(isset($_POST['login']))
   <!-- /.login-logo -->
   <div class="card card-outline card-primary">
     <div class="card-header text-center">
-      <a href="../index.php" class="h1"><b>Admin</b> |  PreSchool</a>
+      <a href="../index.php" class="h1"><b>Admin</b><br> Sparkle Kids</a>
     </div>
     <div class="card-body">
       <p class="login-box-msg">Sign in to start your session</p>
