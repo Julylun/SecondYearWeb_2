@@ -287,8 +287,8 @@ if (strlen($_SESSION['aid']) == 0) {
     <!-- /.content-wrapper -->
     <?php include_once('includes/footer.php'); ?>
 
-</div>
-<!-- ./wrapper -->
+    </div>
+    <!-- ./wrapper -->
 
 <!-- jQuery -->
 <script src="../plugins/jquery/jquery.min.js"></script>

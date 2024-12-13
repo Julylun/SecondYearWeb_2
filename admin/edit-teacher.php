@@ -35,7 +35,7 @@ echo "<script>alert('Something went wrong. Please try again.');</script>";
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Sparkle Kids | Add Teacher</title>
-
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
   <link rel="stylesheet" href="../plugins/fontawesome-free/css/all.min.css">
 
   <link rel="stylesheet" href="../plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css">
