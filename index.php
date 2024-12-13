@@ -24,7 +24,7 @@ echo "<script>alert('Something went wrong. Please try again.');</script>";
 
 <head>
     <meta charset="utf-8">
-    <title>PreSchool Enrollment System </title>
+    <title>Sparkle Kids</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -339,6 +339,7 @@ while($row=mysqli_fetch_array($ret)){
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
+    <script src="js/changeHeaderColor.js"></script>
 </body>
 
 </html>

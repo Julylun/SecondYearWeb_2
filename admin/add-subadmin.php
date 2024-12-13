@@ -29,7 +29,7 @@ echo "<script>alert('Something went wrong. Please try again.');</script>";
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>PreSchool Enrollment System  | Add Sub admin</title>
+  <title>Sparkle Kids | Add Sub admin</title>
 
   <!-- Google Font: Source Sans Pro -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">

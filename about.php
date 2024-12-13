@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>PreSchool Enrollment System</title>
+    <title>Sparkle Kids</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600&family=Inter:wght@600&family=Lobster+Two:wght@700&display=swap" rel="stylesheet">
@@ -102,6 +102,8 @@ while($data=mysqli_fetch_array($sql)){
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
+    <script src="js/changeHeaderColor.js"></script>
+
 </body>
 
 </html>

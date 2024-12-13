@@ -18,10 +18,10 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav mx-auto">
-                    <a href="index.php" class="nav-item nav-link active">Home</a>
-                    <a href="about.php" class="nav-item nav-link">About Us</a>
-                    <a href="classes.php" class="nav-item nav-link">Classes</a>
-                    <a href="contact.php" class="nav-item nav-link">Contact Us</a>
+                    <a id="header-home" href="index.php" class="nav-item nav-link">Home</a>
+                    <a id="header-about" href="about.php" class="nav-item nav-link">About Us</a>
+                    <a id="header-classes" href="classes.php" class="nav-item nav-link">Classes</a>
+                    <a id="header-contact" href="contact.php" class="nav-item nav-link">Contact Us</a>
                     <a href="admin" class="nav-item nav-link">Admin</a>
                 </div>
    <a href="visit.php" class="btn btn-primary rounded-pill px-3 d-none d-lg-block">Schedule a Visit<i class="fa fa-arrow-right ms-3"></i></a>
