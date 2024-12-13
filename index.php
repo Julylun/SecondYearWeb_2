@@ -24,7 +24,7 @@ echo "<script>alert('Something went wrong. Please try again.');</script>";
 
 <head>
     <meta charset="utf-8">
-    <title>PreSchool Enrollment System </title>
+    <title>Sparkle Kids</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -34,6 +34,8 @@ echo "<script>alert('Something went wrong. Please try again.');</script>";
     <link href="lib/animate/animate.min.css" rel="stylesheet">
     <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="icon" type="image/jpg" href="/img/favicon.jpg">
+
 
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
@@ -255,7 +257,7 @@ while($result=mysqli_fetch_array($query)){
 
       <div class="col-sm-6">
                                             <div class="form-floating">
- <input type="datetime-local" id="visittime" name="visittime" required >
+ <input class = "form-control" type="datetime-local" id="visittime" name="visittime" required >
                                           
                                             </div>
                                         </div>
@@ -339,6 +341,7 @@ while($row=mysqli_fetch_array($ret)){
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
+    <script src="js/changeHeaderColor.js"></script>
 </body>
 
 </html>

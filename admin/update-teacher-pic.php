@@ -52,7 +52,7 @@ echo "<script>alert('Something went wron. Please try again.');</script>";
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>PreSchool Enrollment System   | Update Teacher Profile Pic</title>
+  <title>Sparkle Kids  | Update Teacher Profile Pic</title>
 
   <link rel="stylesheet" href="../plugins/fontawesome-free/css/all.min.css">
 

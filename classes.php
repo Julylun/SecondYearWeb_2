@@ -4,13 +4,14 @@
 
 <head>
     <meta charset="utf-8">
-    <title>PreSchool Enrollment System </title>
+    <title>Sparkle Kids</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
 
     <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
+    <link rel="icon"  href="/img/favicon.jpg">>
+
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -165,7 +166,7 @@ while($result=mysqli_fetch_array($query)){
 
       <div class="col-sm-6">
                                             <div class="form-floating">
- <input type="datetime-local" id="visittime" name="visittime" required >
+ <input class = "form-control" type="datetime-local" id="visittime" name="visittime" required >
                                           
                                             </div>
                                         </div>
@@ -217,6 +218,8 @@ while($result=mysqli_fetch_array($query)){
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
+    <script src="js/changeHeaderColor.js"></script>
+
 </body>
 
 </html>
