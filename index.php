@@ -255,7 +255,7 @@ while($result=mysqli_fetch_array($query)){
 
       <div class="col-sm-6">
                                             <div class="form-floating">
- <input type="datetime-local" id="visittime" name="visittime" required >
+ <input class = "form-control" type="datetime-local" id="visittime" name="visittime" required >
                                           
                                             </div>
                                         </div>
