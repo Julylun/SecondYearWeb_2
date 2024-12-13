@@ -51,7 +51,7 @@ echo "<script>alert('Something went wrong. Please try again.');</script>";
                         <div class="container">
                             <div class="row justify-content-start">
                                 <div class="col-10 col-lg-8">
-                                    <h1 class="display-2 text-white animated slideInDown mb-4">The Best Kindergarten School For Your Child</h1>
+                                    <h1 class="display-2 text-white animated slideInDown mb-4">The Best Start for Your Child's Journey</h1>
                       
                                 </div>
                             </div>
@@ -275,7 +275,7 @@ while($result=mysqli_fetch_array($query)){
                         </div>
                         <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s" style="min-height: 400px;">
                             <div class="position-relative h-100">
-                                <img class="position-absolute w-100 h-100 rounded" src="img/appointment.jpg" style="object-fit: cover;">
+                                <img class="position-absolute w-100 h-100 rounded" src="img/appointment1.jpg" style="object-fit: cover;">
                             </div>
                         </div>
                     </div>

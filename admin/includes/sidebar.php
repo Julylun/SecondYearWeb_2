@@ -3,7 +3,7 @@
     <!-- Brand Logo -->
     <a href="dashboard.php" class="brand-link">
 
-      <span class="brand-text font-weight-light">PreSchool | Admin </span>
+      <span class="brand-text font-weight-light">Sparkle Kids | Admin </span>
     </a>
     <div class="sidebar">
       <!-- Sidebar user panel (optional) -->
