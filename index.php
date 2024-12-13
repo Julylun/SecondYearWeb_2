@@ -34,6 +34,8 @@ echo "<script>alert('Something went wrong. Please try again.');</script>";
     <link href="lib/animate/animate.min.css" rel="stylesheet">
     <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="icon" type="image/jpg" href="/img/favicon.jpg">
+
 
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
